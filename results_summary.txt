@@ -1,0 +1,7 @@
+Baseline F1 (validation, majority class): 0.0000
+Best params: {'max_depth': 15}
+Validation F1: 0.2846
+Test F1: 0.2686
+Test Precision: 0.2036
+Test Recall: 0.3944
+Test ROC-AUC: 0.7024

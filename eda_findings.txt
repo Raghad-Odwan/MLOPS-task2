@@ -1,0 +1,5 @@
+Training set shape: (67526, 21)
+Columns with missing values: ['product_category_name_english', 'product_category_name', 'order_approved_at']
+Most skewed numeric column: total_freight
+State with highest late ratio (top 10 by volume): BA
+Delivery time and customer state show visible differences in late ratio, suggesting both are useful features for the model.
